@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     class BtnListener implements View.OnClickListener{
 
         int num = 0;
+        int b = 0;
 
         @Override
         public void onClick(View v) {
